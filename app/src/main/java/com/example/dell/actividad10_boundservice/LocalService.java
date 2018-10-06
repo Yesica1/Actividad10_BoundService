@@ -28,6 +28,7 @@ public class LocalService extends Service
         return lBinder;
     }
 
+
     //Método que se llamara para mostrar el numero random
     public int getRandomNumber()
     {

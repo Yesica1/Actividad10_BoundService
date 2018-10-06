@@ -1,4 +1,5 @@
 <resources>
+
     <string name="app_name">Actividad10_BoundService</string>
     <string name="numero_random">MOSTRAR NÚMERO RANDOM</string>
     <string name="iniciar_servicio">INICIAR SERVICIO</string>

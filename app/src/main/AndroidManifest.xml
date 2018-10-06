@@ -17,6 +17,7 @@
             </intent-filter>
         </activity>
 
+        <!--Declaracion de la clase de Java como service para poder visualizar lo creado-->
         <service
             android:name=".LocalService"
             android:enabled="true"

@@ -34,6 +34,7 @@ public class MainActivity extends AppCompatActivity {
         bindService(intent, mConnection, Context.BIND_AUTO_CREATE); //*
     }
 
+
     @Override
     //Se ejecuta cuando el usuario no utiliza la aplicacion, en este caso se detendrá cuando el usuario
     // le de clic al boton necesarios.

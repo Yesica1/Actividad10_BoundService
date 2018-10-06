@@ -3,4 +3,5 @@
     <string name="numero_random">MOSTRAR NÚMERO RANDOM</string>
     <string name="iniciar_servicio">INICIAR SERVICIO</string>
     <string name="detener_servicio">DETENER SERVICIO</string>
+
 </resources>

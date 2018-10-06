@@ -22,7 +22,6 @@ public class LocalService extends Service
         }
     }
 
-
     @Nullable
     @Override
     public IBinder onBind(Intent intent) {
